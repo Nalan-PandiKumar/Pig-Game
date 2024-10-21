@@ -40,7 +40,7 @@ Follow these simple steps to play the game on your local machine:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/pig-game.git
+   git clone https://github.com/Nalan-PandiKumar/Pig-Game.git
    ```
 
 2. **Open the Game**:
